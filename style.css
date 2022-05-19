@@ -1,0 +1,18 @@
+h1{
+    color: brown;
+}
+body{
+    background-color: rgb(151, 203, 228); font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2{
+    color: rgb(241, 231, 231);
+}
+p{
+color: blanchedalmond;  text-align: center; font-family: Georgia, 'Times New Roman', Times, serif;
+}
+ul{
+    color: orange; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+a{
+    color: aliceblue;
+}
